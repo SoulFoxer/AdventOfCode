@@ -1,7 +1,9 @@
+package day1;
+
 import java.io.*;
 import java.util.Scanner;
 
-public class Day1 {
+public class Day1Part1 {
     public static void main(String[] args) throws IOException {
 
         int max = 0;
