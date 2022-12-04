@@ -8,7 +8,7 @@ import day2.untilgeneral.Shape;
 import java.io.*;
 import java.util.Scanner;
 
-public class Day2Part1 {
+public class Part1 {
     public static void main(String[] args) {
 
         int result = 0;

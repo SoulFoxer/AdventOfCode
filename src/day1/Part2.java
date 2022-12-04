@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Day1Part2 {
+public class Part2 {
     public static void main(String[] args) {
         int sum = 0;
 

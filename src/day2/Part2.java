@@ -9,7 +9,7 @@ import day2.utilsDay2Part2.ReverseResult;
 import java.io.*;
 import java.util.Scanner;
 
-public class Day2Part2 {
+public class Part2 {
     public static void main(String[] args) {
 
         int points = 0;
